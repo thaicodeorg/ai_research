@@ -1,10 +1,8 @@
 ---
-type: fleeting
-created:
-  "{ date }":
-tags: []
-status: seed
-Sources:
+create: "{{date}}"
+type: fleet
+tags:
+source:
 ---
 
 # {{title}}

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "958bf91b8f5797f7",
+        "id": "e437b8d3062d3404",
         "type": "tabs",
         "children": [
           {
-            "id": "0c01a6f9ce7a017b",
+            "id": "18869efc78346c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/URL/BERT and RoBERTa Models for Enhanced Detection of Depression in Social Media Text.md",
+                "file": "Literatures Notes/Reviews Chatgpt/BERT and RoBERTa Models for Enhanced Detection of Depression in Social Media Text.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "5eaff81f3c4e4419",
+            "id": "bdd04c2c49268ed9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literatures Notes/Reviews Chatgpt/RoBERTa A Robustly Optimized BERT Pretraining Approach.md",
+                "file": "Fleetings Notes/10012026 laya.com.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RoBERTa A Robustly Optimized BERT Pretraining Approach"
+              "title": "10012026 laya.com"
             }
           }
         ],
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9fca8d3c0bf01d09",
@@ -203,26 +203,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "c887cff929ef3b9b",
+  "active": "bdd04c2c49268ed9",
   "lastOpenFiles": [
-    "Templetes/fleeting node.md.md",
-    "Sources/URL/BERT and RoBERTa Models for Enhanced Detection of Depression in Social Media Text.md",
+    "Sources/Research Paper/arxiv.org/2510.01237v1-Confidence-Aware-Routing for large.pdf",
+    "Sources/Research Paper/arxiv.org/2510.01237v1-Confidence-Aware-Routing for large.pdf.crdownload",
+    "Sources/Research Paper/arxiv.org/2503.23303v1-salesRLAgent-Reinforcement.pdf",
+    "Sources/Research Paper/arxiv.org/2503.23303v1-salesRLAgent-Reinforcement.pdf.crdownload",
+    "Fleetings Notes/10012026 Laya.md",
+    "Fleetings Notes/10012026 laya.com.md",
+    "Literatures Notes/Reviews Chatgpt/BERT and RoBERTa Models for Enhanced Detection of Depression in Social Media Text.md",
+    "Fleetings Notes",
+    "Literatures Notes/Reviews Chatgpt/Comparative Analysis of State-of-the-Art Q&A Models.md",
+    "Sources/Research Paper/adbascienctific.com/CHF_3.pdf",
+    "Sources/Research Paper/sciencedirect.com/1-s2.0-S1877050924030527-main-BERT-and-Roberta-model.pdf",
     "Literatures Notes/Reviews Chatgpt/RoBERTa A Robustly Optimized BERT Pretraining Approach.md",
-    "Templetes",
-    "Fleeting Notes/NotebookLM",
-    "Fleeting Notes/Chat",
-    "Fleeting Notes",
-    "Literatures Notes/Reviews Chatgpt",
-    "Literatures Notes",
-    "Sources/Youtube",
+    "Sources/Research Paper/acm.org/3812734.3813713-detection-of-Generated.pdf",
+    "Sources/Research Paper/arxiv.org/2306.07401v1-implementing-Bert.pdf",
+    "Sources/Research Paper/researchgate.net/Roberta_and_BERT_Revolutionizing_Mental_Healthcare.pdf",
+    "Sources/Research Paper/icck.org/TETAI-Iq3Bpav4025SBVX7G-ensemble-model-Bert.pdf",
+    "Templetes/fleeting node.md.md",
+    "Invalid date.md",
+    "Sources/URL/BERT and RoBERTa Models for Enhanced Detection of Depression in Social Media Text.md",
     "Sources/URL/RoBERTa A Modified BERT Model for NLP.md",
-    "Sources/URL",
     "Sources/URL/RoBERTa A Robustly Optimized BERT Pretraining Approach.md",
     "Clippings/Untitled.md",
     "Sources/URL/Implementing BERT and fine-tuned RobertA to detect AI generated news by ChatGPT.md",
     "Sources/URL/Ensemble Model with BERT, RoBERTa and XLNet for Molecular Property Prediction.md",
     "Sources/URL/Detection of AI-Generated Text Using RoBERTa Across English and Spanish  Proceedings of the 17th International Conference on Information and Communication Systems.md",
-    "Sources/URL/BERT and RoBERTa Models for Enhanced Detection of Depression in Social Media Text 1.md",
-    "Clippings"
+    "Sources/URL/BERT and RoBERTa Models for Enhanced Detection of Depression in Social Media Text 1.md"
   ]
 }

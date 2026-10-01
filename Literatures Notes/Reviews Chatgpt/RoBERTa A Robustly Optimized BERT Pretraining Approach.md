@@ -1,13 +1,12 @@
 ---
-type: fleeting
-created:
-  "{ date }":
-tags: []
-status: seed
-Sources: "[[1907.11692v1-RoBerta-a-Robustly.pdf]]"
+create: 2026-10-01
+type: fleet
+tags:
+source: "[[1907.11692v1-RoBerta-a-Robustly.pdf]]"
 ---
 
 # RoBERTa A Robustly Optimized BERT Pretraining Approach
+
 
 I’ll use your requested structure for our reviews in this conversation: **Abstract and Introduction → Background and subsections → Experimental Setup and subsections → Training Procedure Analysis and subsections → RoBERTa and subsections.**
 
